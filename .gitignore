@@ -2,3 +2,5 @@ api_oauth.txt
 wiki_en_dLCE_100d_minFreq_100.bin
 #*.p
 .DS_Store
+*.w2v.txt
+count_length.py

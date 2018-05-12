@@ -76,7 +76,6 @@ beginnings
 begins
 behind
 being
-believe
 below
 beside
 besides
@@ -535,7 +534,6 @@ theyd
 they'll
 theyre
 they've
-think
 this
 those
 thou
